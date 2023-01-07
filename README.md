@@ -7,7 +7,7 @@
 ### Training and Testing:
 #### Using YOLOv5 Algorithm. YOLO (You Only Look Once) is a deep learning algorithm that uses neural networks to provide real-time object detection. It is popular because of its speed and accuracy. 
 ### For Real-Time Detection:
-#### For Real-time detection, we have downloaded the yolov5 GitHub repository we can follow this YouTube link if you are using YOLOV5 https://youtu.be/gDoMYuyY_qw
+#### For Real-time detection, we have downloaded the yolov5 GitHub repository and we follow this YouTube link https://youtu.be/gDoMYuyY_qw
 ### Serial Connection: 
 #### For sending signals to Arduino we have used serial communication. Also, we modified the detect.py file in yolov5 repository to connect real time detection with Arduino.
 #### https://create.arduino.cc/projecthub/ansh2919/serial-communication-between-python-and-arduino-e7cce0
