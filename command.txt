@@ -1,0 +1,10 @@
+python detect.py --source 0 --weights last.pt --conf 0.7
+python detect.py --source data/images --weights last.pt --conf 0.7
+python detect.py --source data/video --weights last.pt --conf 0.7
+for YouTube:
+python detect.py --source https://youtu.be/FL9AX9WTHnY --weights last.pt --conf 0.7
+
+
+
+
+https://youtu.be/gDoMYuyY_qw
